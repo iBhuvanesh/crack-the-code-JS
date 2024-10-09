@@ -1,0 +1,14 @@
+* {
+    font-family: 'Yeon Sung', cursive;
+}
+
+input {
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.bg-container{
+    background-color: #42033c;
+}
